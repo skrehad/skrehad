@@ -1,4 +1,4 @@
-![Web Developer]((https://imgtr.ee/images/2023/07/30/fac0a7c06644ad473d430e319f2514c1.png))
+![Web Developer](https://imgtr.ee/images/2023/07/30/fac0a7c06644ad473d430e319f2514c1.png)
 
 # 💫 About Me:
 As a MERN stack developer, I am passionate about crafting innovative and efficient web applications. With a strong foundation in JavaScript, I thrive on building dynamic and responsive user interfaces using React.js. My expertise in Node.js allows me to create robust server-side applications and RESTful APIs, ensuring seamless communication between the front end and back end. Additionally, I am well-versed in MongoDB, enabling me to design and manage databases that cater to the specific needs of each project. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
