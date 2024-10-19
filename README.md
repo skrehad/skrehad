@@ -1,4 +1,4 @@
-![Web Developer](https://ibb.co.com/hMn8qFV)
+![Web Developer](https://i.ibb.co.com/dc3Kh4D/1690748279747.jpg)
 
 # 💫 About Me:
 As a MERN stack developer, I am passionate about crafting innovative and efficient web applications. With a strong foundation in JavaScript, I thrive on building dynamic and responsive user interfaces using React.js. My expertise in Node.js allows me to create robust server-side applications and RESTful APIs, ensuring seamless communication between the front end and back end. Additionally, I am well-versed in MongoDB, enabling me to design and manage databases that cater to the specific needs of each project. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
