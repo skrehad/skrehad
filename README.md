@@ -1,4 +1,4 @@
-![Web Developer](https://postimg.cc/NL5vQmPD)
+![Web Developer](https://asset.cloudinary.com/dz43bufkc/733e3cebb84758c70e6c937be766676c)
 
 # 💫 About Me:
 I'm a passionate Full Stack Developer from Dhaka, Bangladesh📍, skilled in building robust and dynamic web applications using the MERN stack and modern frameworks like Next.js. I have hands-on experience with both NoSQL (MongoDB, Mongoose) and SQL databases using tools like Prisma ORM. I'm driven by curiosity and always eager to turn ideas into scalable and efficient solutions with a focus on performance and clean code. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
