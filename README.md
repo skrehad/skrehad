@@ -1,4 +1,4 @@
-![Web Developer](https://i.ibb.co.com/dc3Kh4D/1690748279747.jpg)
+![Web Developer](https://i.ibb.co/m564t9z6/01996064707-3.png)
 
 # 💫 About Me:
 I'm a passionate Full Stack Developer from Dhaka, Bangladesh📍, skilled in building robust and dynamic web applications using the MERN stack and modern frameworks like Next.js. I have hands-on experience with both NoSQL (MongoDB, Mongoose) and SQL databases using tools like Prisma ORM. I'm driven by curiosity and always eager to turn ideas into scalable and efficient solutions with a focus on performance and clean code. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
