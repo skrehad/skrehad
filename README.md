@@ -1,7 +1,7 @@
 ![Web Developer](https://i.ibb.co.com/dc3Kh4D/1690748279747.jpg)
 
 # 💫 About Me:
-As a MERN stack developer, I am passionate about crafting innovative and efficient web applications. With a strong foundation in JavaScript, I thrive on building dynamic and responsive user interfaces using React.js. My expertise in Node.js allows me to create robust server-side applications and RESTful APIs, ensuring seamless communication between the front and back end. Additionally, I am well-versed in MongoDB, enabling me to design and manage databases that cater to the specific needs of each project. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
+I'm a passionate Full Stack Developer from Dhaka, Bangladesh📍, skilled in building robust and dynamic web applications using the MERN stack and modern frameworks like Next.js. I have hands-on experience with both NoSQL (MongoDB, Mongoose) and SQL databases using tools like Prisma ORM. I'm driven by curiosity and always eager to turn ideas into scalable and efficient solutions with a focus on performance and clean code. Continuously staying updated with the latest technologies, I am committed to delivering top-notch solutions that enhance user experiences and drive business growth.
 
 
 ## 🌐 Socials:
